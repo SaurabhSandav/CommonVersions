@@ -12,7 +12,7 @@ plugins {
 }
 
 group = "com.saurabhsandav"
-version = "0.0.2"
+version = "0.0.3"
 
 catalog {
     // declare the aliases, bundles and versions in this block
