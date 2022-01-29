@@ -54,7 +54,7 @@ camerax-camera2 = "androidx.camera:camera-camera2:1.1.0-alpha05"
 camerax-lifecycle = "androidx.camera:camera-lifecycle:1.1.0-alpha05"
 camerax-view = "androidx.camera:camera-view:1.0.0-alpha25"
 
-mlkit-barcode-scanning = "com.google.android.gms:play-services-mlkit-barcode-scanning:16.1.5"
+mlkit-barcodeScanning = "com.google.android.gms:play-services-mlkit-barcode-scanning:16.1.5"
 
 sqldelight-runtime = { module = "com.squareup.sqldelight:runtime", version.ref = "sqldelight" }
 sqldelight-androidDriver = { module = "com.squareup.sqldelight:android-driver", version.ref = "sqldelight" }
@@ -71,9 +71,9 @@ ktor-client-contentNegotiation = { module = "io.ktor:ktor-client-content-negotia
 ktor-client-websockets = { module = "io.ktor:ktor-client-websockets", version.ref = "ktor" }
 ktor-serialization-kotlinxJson = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
 
-multiplatform-settings-core = { module = "com.russhwolf:multiplatform-settings", version.ref = "multiplatform-settings" }
-multiplatform-settings-coroutines = { module = "com.russhwolf:multiplatform-settings-coroutines", version.ref = "multiplatform-settings" }
-multiplatform-settings-datastore = { module = "com.russhwolf:multiplatform-settings-datastore", version.ref = "multiplatform-settings" }
+multiplatformSettings-core = { module = "com.russhwolf:multiplatform-settings", version.ref = "multiplatform-settings" }
+multiplatformSettings-coroutines = { module = "com.russhwolf:multiplatform-settings-coroutines", version.ref = "multiplatform-settings" }
+multiplatformSettings-datastore = { module = "com.russhwolf:multiplatform-settings-datastore", version.ref = "multiplatform-settings" }
 
 kermit = "co.touchlab:kermit:1.0.3"
 
