@@ -88,4 +88,4 @@ whatTheStack = "com.github.haroldadmin:WhatTheStack:1.0.0-alpha03"
 kotlinInject-compilerKsp = { module = "me.tatarka.inject:kotlin-inject-compiler-ksp", version.ref = "kotlin-inject" }
 kotlinInject-runtime = { module = "me.tatarka.inject:kotlin-inject-runtime", version.ref = "kotlin-inject" }
 
-common-compose = "com.saurabhsandav.common:compose:0.0.2"
+common-compose = "com.saurabhsandav.common:compose:0.0.3"
