@@ -22,6 +22,18 @@ catalog {
 }
 
 publishing {
+
+    repositories {
+        maven {
+            name = "CommonVersions"
+            url = uri("https://maven.pkg.github.com/saurabhsandav/CommonVersions")
+            credentials {
+                username = System.getenv("GITHUB_ACTOR")
+                password = System.getenv("GITHUB_TOKEN")
+            }
+        }
+    }
+
     publications {
         create<MavenPublication>("maven") {
             artifactId = "common-versions"
