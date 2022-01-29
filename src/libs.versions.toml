@@ -22,7 +22,7 @@ kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-plugin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 
-jetbrains-compose = "org.jetbrains.compose:1.1.0-alpha1-dev550"
+jetbrains-compose = "org.jetbrains.compose:1.1.0-alpha02"
 
 sqldelight = { id = "com.squareup.sqldelight", version.ref = "sqldelight" }
 
