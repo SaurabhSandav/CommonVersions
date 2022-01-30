@@ -12,7 +12,6 @@ plugins {
 }
 
 group = "com.saurabhsandav"
-version = "0.0.4"
 
 catalog {
     // declare the aliases, bundles and versions in this block
