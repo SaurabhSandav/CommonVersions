@@ -56,7 +56,7 @@ camerax-view = "androidx.camera:camera-view:1.0.0-alpha32"
 
 accompanist-insets = "com.google.accompanist:accompanist-insets:0.22.1-rc"
 
-mlkit-barcodeScanning = "com.google.android.gms:play-services-mlkit-barcode-scanning:16.1.5"
+mlkit-barcodeScanning = "com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0"
 
 sqldelight-runtime = { module = "com.squareup.sqldelight:runtime", version.ref = "sqldelight" }
 sqldelight-androidDriver = { module = "com.squareup.sqldelight:android-driver", version.ref = "sqldelight" }
