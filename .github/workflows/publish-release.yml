@@ -1,12 +1,14 @@
 name: Publish release
 
 on:
-  push:
+  pull_request:
     branches:
       - master
+    types: [ closed ]
 
 jobs:
   publish-release:
+    if: ${{ github.event.pull_request.merged }}
     runs-on: ubuntu-latest
 
     steps:
