@@ -10,7 +10,7 @@ ktor = "2.0.0-beta-1"
 multiplatform-settings = "0.8.1"
 ksp = "1.6.10-1.0.2"
 kotlin-inject = "0.4.1"
-common = "0.0.4"
+common = "0.0.5"
 
 [plugins]
 gradle-versions-checker = "com.github.ben-manes.versions:0.41.0"
