@@ -13,7 +13,7 @@ kotlin-inject = "0.4.1"
 common = "0.1.0"
 
 [plugins]
-gradle-versions-checker = "com.github.ben-manes.versions:0.41.0"
+gradle-versions-checker = "com.github.ben-manes.versions:0.42.0"
 
 android-application = { id = "com.android.application", version.ref = "android" }
 android-library = { id = "com.android.library", version.ref = "android" }
