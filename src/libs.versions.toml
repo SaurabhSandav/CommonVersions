@@ -95,5 +95,7 @@ whatTheStack = "com.github.haroldadmin:WhatTheStack:1.0.0-alpha03"
 kotlinInject-compilerKsp = { module = "me.tatarka.inject:kotlin-inject-compiler-ksp", version.ref = "kotlin-inject" }
 kotlinInject-runtime = { module = "me.tatarka.inject:kotlin-inject-runtime", version.ref = "kotlin-inject" }
 
+uuid = "com.benasher44:uuid:0.4.0"
+
 common-core = { module = "com.saurabhsandav.common:compose", version.ref = "common" }
 common-compose = { module = "com.saurabhsandav.common:compose", version.ref = "common" }
