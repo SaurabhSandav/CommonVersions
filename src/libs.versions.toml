@@ -9,9 +9,9 @@ camerax = "1.1.0-beta02"
 media3 = "1.0.0-alpha02"
 sqldelight = "1.5.3"
 ktor = "2.0.0-beta-1"
-multiplatform-settings = "0.8.1"
+multiplatformSettings = "0.8.1"
 ksp = "1.6.10-1.0.4"
-kotlin-inject = "0.4.1"
+kotlinInject = "0.4.1"
 common = "0.1.0"
 
 [plugins]
@@ -82,9 +82,9 @@ ktor-client-contentNegotiation = { module = "io.ktor:ktor-client-content-negotia
 ktor-client-websockets = { module = "io.ktor:ktor-client-websockets", version.ref = "ktor" }
 ktor-serialization-kotlinxJson = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
 
-multiplatformSettings-core = { module = "com.russhwolf:multiplatform-settings", version.ref = "multiplatform-settings" }
-multiplatformSettings-coroutines = { module = "com.russhwolf:multiplatform-settings-coroutines", version.ref = "multiplatform-settings" }
-multiplatformSettings-datastore = { module = "com.russhwolf:multiplatform-settings-datastore", version.ref = "multiplatform-settings" }
+multiplatformSettings-core = { module = "com.russhwolf:multiplatform-settings", version.ref = "multiplatformSettings" }
+multiplatformSettings-coroutines = { module = "com.russhwolf:multiplatform-settings-coroutines", version.ref = "multiplatformSettings" }
+multiplatformSettings-datastore = { module = "com.russhwolf:multiplatform-settings-datastore", version.ref = "multiplatformSettings" }
 
 kermit = "co.touchlab:kermit:1.0.3"
 
@@ -94,8 +94,8 @@ coil-compose = "io.coil-kt:coil-compose:2.0.0-alpha09"
 
 whatTheStack = "com.github.haroldadmin:WhatTheStack:1.0.0-alpha03"
 
-kotlinInject-compilerKsp = { module = "me.tatarka.inject:kotlin-inject-compiler-ksp", version.ref = "kotlin-inject" }
-kotlinInject-runtime = { module = "me.tatarka.inject:kotlin-inject-runtime", version.ref = "kotlin-inject" }
+kotlinInject-compilerKsp = { module = "me.tatarka.inject:kotlin-inject-compiler-ksp", version.ref = "kotlinInject" }
+kotlinInject-runtime = { module = "me.tatarka.inject:kotlin-inject-runtime", version.ref = "kotlinInject" }
 
 uuid = "com.benasher44:uuid:0.4.0"
 
