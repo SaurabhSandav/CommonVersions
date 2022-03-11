@@ -28,6 +28,8 @@ kotlin-plugin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization"
 
 kotlinx-binaryCompatibilityValidator = "org.jetbrains.kotlinx.binary-compatibility-validator:0.8.0"
 
+jetbrains-dokka = "org.jetbrains.dokka:1.6.10"
+
 jetbrains-compose = { id = "org.jetbrains.compose", version.ref = "jetbrainsCompose" }
 
 sqldelight = { id = "com.squareup.sqldelight", version.ref = "sqldelight" }
