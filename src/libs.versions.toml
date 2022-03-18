@@ -104,5 +104,7 @@ kotlinInject-runtime = { module = "me.tatarka.inject:kotlin-inject-runtime", ver
 
 uuid = "com.benasher44:uuid:0.4.0"
 
+bignum = "com.ionspin.kotlin:bignum:0.3.4"
+
 common-core = { module = "com.saurabhsandav.common:compose", version.ref = "common" }
 common-compose = { module = "com.saurabhsandav.common:compose", version.ref = "common" }
