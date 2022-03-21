@@ -97,7 +97,7 @@ bundlizer = "dev.ahmedmourad.bundlizer:bundlizer-core:0.6.0"
 
 coil-compose = "io.coil-kt:coil-compose:2.0.0-rc01"
 
-whatTheStack = "com.github.haroldadmin:WhatTheStack:1.0.0-alpha03"
+whatTheStack = "com.github.haroldadmin:WhatTheStack:1.0.0-alpha04"
 
 kotlinInject-compilerKsp = { module = "me.tatarka.inject:kotlin-inject-compiler-ksp", version.ref = "kotlinInject" }
 kotlinInject-runtime = { module = "me.tatarka.inject:kotlin-inject-runtime", version.ref = "kotlinInject" }
