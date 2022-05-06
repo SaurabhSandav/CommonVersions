@@ -26,7 +26,7 @@ kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-plugin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 
-kotlinx-binaryCompatibilityValidator = "org.jetbrains.kotlinx.binary-compatibility-validator:0.8.0"
+kotlinx-binaryCompatibilityValidator = "org.jetbrains.kotlinx.binary-compatibility-validator:0.9.0"
 
 jetbrains-dokka = "org.jetbrains.dokka:1.6.10"
 
