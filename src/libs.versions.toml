@@ -68,7 +68,7 @@ camerax-camera2 = { module = "androidx.camera:camera-camera2", version.ref = "ca
 camerax-lifecycle = { module = "androidx.camera:camera-lifecycle", version.ref = "camerax" }
 camerax-view = { module = "androidx.camera:camera-view", version.ref = "camerax" }
 
-accompanist-insets = "com.google.accompanist:accompanist-insets:0.23.1"
+accompanist-insets = "com.google.accompanist:accompanist-insets:0.24.7-alpha"
 
 mlkit-barcodeScanning = "com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0"
 
