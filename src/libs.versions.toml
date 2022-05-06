@@ -91,7 +91,7 @@ multiplatformSettings-core = { module = "com.russhwolf:multiplatform-settings", 
 multiplatformSettings-coroutines = { module = "com.russhwolf:multiplatform-settings-coroutines", version.ref = "multiplatformSettings" }
 multiplatformSettings-datastore = { module = "com.russhwolf:multiplatform-settings-datastore", version.ref = "multiplatformSettings" }
 
-kermit = "co.touchlab:kermit:1.0.3"
+kermit = "co.touchlab:kermit:1.1.1"
 
 bundlizer = "dev.ahmedmourad.bundlizer:bundlizer-core:0.6.0"
 
