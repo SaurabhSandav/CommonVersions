@@ -11,7 +11,7 @@ media3 = "1.0.0-alpha03"
 sqldelight = "1.5.3"
 ktor = "2.0.0-beta-1"
 multiplatformSettings = "0.8.1"
-ksp = "1.6.10-1.0.4"
+ksp = "1.6.21-1.0.5"
 kotlinInject = "0.4.1"
 common = "0.1.0"
 
