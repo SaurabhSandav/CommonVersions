@@ -96,7 +96,7 @@ kermit = "co.touchlab:kermit:1.1.1"
 
 bundlizer = "dev.ahmedmourad.bundlizer:bundlizer-core:0.7.0"
 
-coil-compose = "io.coil-kt:coil-compose:2.0.0-rc03"
+coil-compose = "io.coil-kt:coil-compose:2.0.0"
 
 whatTheStack = "com.github.haroldadmin:WhatTheStack:1.0.0-alpha04"
 
