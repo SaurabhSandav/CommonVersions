@@ -39,7 +39,7 @@ coil = "2.1.0"
 whatTheStack = "1.0.0-alpha04"
 kotlinInject = "0.4.1"
 uuid = "0.4.0"
-bignum = "0.3.4"
+bignum = "0.3.6"
 
 # Mine
 mineCommon = "0.2.0"
