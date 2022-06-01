@@ -20,7 +20,7 @@ jetpackActivity = "1.5.0-rc01"
 jetpackLifecycle = "2.5.0-rc01"
 jetpackDatastore = "1.0.0"
 jetpackMedia3 = "1.0.0-alpha03"
-jetpackCamerax = "1.1.0-rc01"
+jetpackCamerax = "1.1.0-rc02"
 
 # Google
 accompanist = "0.24.7-alpha"
