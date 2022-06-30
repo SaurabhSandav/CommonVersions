@@ -24,7 +24,7 @@ jetpackCamerax = "1.1.0"
 
 # Google
 accompanist = "0.24.7-alpha"
-ksp = "1.6.21-1.0.5"
+ksp = "1.7.0-1.0.6"
 playServicesMlKitBarcodeScanning = "18.0.0"
 
 # Square
