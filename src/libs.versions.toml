@@ -38,7 +38,7 @@ bundlizer = "0.7.0"
 coil = "2.1.0"
 whatTheStack = "1.0.0-alpha04"
 kotlinInject = "0.4.1"
-uuid = "0.4.1"
+uuid = "0.5.0"
 bignum = "0.3.6"
 
 # Mine
