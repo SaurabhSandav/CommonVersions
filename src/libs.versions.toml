@@ -23,7 +23,7 @@ jetpackMedia3 = "1.0.0-beta02"
 jetpackCamerax = "1.1.0"
 
 # Google
-accompanist = "0.24.7-alpha"
+accompanist = "0.25.0"
 ksp = "1.7.10-1.0.6"
 playServicesMlKitBarcodeScanning = "18.0.0"
 
