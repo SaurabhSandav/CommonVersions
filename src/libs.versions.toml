@@ -45,7 +45,7 @@ uuid = "0.5.0"
 bignum = "0.3.7"
 
 # Mine
-mineCommon = "0.2.0"
+mineCommon = "0.2.2"
 
 [plugins]
 # Gradle Versions Checker
