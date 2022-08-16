@@ -27,7 +27,7 @@ jetpackComposeCompiler = "1.3.0"
 # Google
 accompanist = "0.25.1"
 ksp = "1.7.10-1.0.6"
-playServicesMlKitBarcodeScanning = "18.0.0"
+playServicesMlKitBarcodeScanning = "18.1.0"
 
 # Square
 sqldelight = "1.5.3"
