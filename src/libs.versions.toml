@@ -11,7 +11,7 @@ kotlinxDatetime = "0.4.0"
 kotlinxBinaryCompatibilityValidator = "0.11.0"
 kotlinxCollectionsImmutable = "0.3.5"
 dokka = "1.7.10"
-jetbrainsCompose = "1.2.0-alpha01-dev755"
+jetbrainsCompose = "1.2.0-alpha01-dev764"
 ktor = "2.1.0"
 
 # Android and Jetpack
