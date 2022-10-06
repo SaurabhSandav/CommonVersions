@@ -23,6 +23,7 @@ jetpackMedia3 = "1.0.0-beta02"
 jetpackCamerax = "1.1.0"
 jetpackCompose = "1.2.1"
 jetpackComposeCompiler = "1.3.2"
+jetpackTv = "1.0.0-alpha01"
 
 # Google
 accompanist = "0.25.1"
@@ -139,6 +140,10 @@ jetpack-compose-foundation = { module = "androidx.compose.foundation:foundation"
 jetpack-compose-ui = { module = "androidx.compose.ui:ui", version.ref = "jetpackCompose" }
 jetpack-compose-material = { module = "androidx.compose.material:material", version.ref = "jetpackCompose" }
 jetpack-compose-animation = { module = "androidx.compose.animation:animation", version.ref = "jetpackCompose" }
+
+# Jetpack TV
+jetpack-tv-foundation = { module = "androidx.tv:tv-foundation", version.ref = "jetpackTv" }
+jetpack-tv-material = { module = "androidx.tv:tv-material", version.ref = "jetpackTv" }
 
 # Accompanist
 accompanist-insets = { module = "com.google.accompanist:accompanist-insets", version.ref = "accompanist" }
