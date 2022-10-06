@@ -31,7 +31,7 @@ ksp = "1.7.20-1.0.6"
 playServicesMlKitBarcodeScanning = "18.1.0"
 
 # Square
-sqldelight = "1.5.3"
+sqldelight = "1.5.4"
 okhttp = "4.10.0"
 molecule = "0.4.0"
 
