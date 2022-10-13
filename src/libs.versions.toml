@@ -33,7 +33,7 @@ playServicesMlKitBarcodeScanning = "18.1.0"
 # Square
 sqldelight = "1.5.4"
 okhttp = "4.10.0"
-molecule = "0.4.0"
+molecule = "0.5.0"
 
 # Other
 multiplatformSettings = "0.9"
