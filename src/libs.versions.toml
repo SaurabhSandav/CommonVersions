@@ -27,7 +27,7 @@ jetpackTv = "1.0.0-alpha03"
 
 # Google
 accompanist = "0.28.0"
-ksp = "1.8.0-1.0.9"
+ksp = "1.8.10-1.0.9"
 playServicesMlKitBarcodeScanning = "18.1.0"
 
 # Square
