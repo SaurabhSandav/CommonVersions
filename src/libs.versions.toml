@@ -46,6 +46,7 @@ uuid = "0.7.0"
 bignum = "0.3.8"
 kotlinCsv = "1.8.0"
 kotlinResult = "1.1.16"
+appdirs = "1.2.1"
 
 # Mine
 mineCommon = "0.2.2"
@@ -195,6 +196,9 @@ kotlinCsvJvm = { module = "com.github.doyaaaaaken:kotlin-csv-jvm", version.ref =
 
 # kotlin-result
 kotlinResult = { module = "com.michael-bull.kotlin-result:kotlin-result", version.ref = "kotlinResult" }
+
+# AppDirs
+appdirs = { module = "net.harawata:appdirs", version.ref = "appdirs" }
 
 # Common
 mine-common-core = { module = "com.saurabhsandav.common:compose", version.ref = "mineCommon" }
