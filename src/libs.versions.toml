@@ -200,6 +200,7 @@ kotlinCsvJvm = { module = "com.github.doyaaaaaken:kotlin-csv-jvm", version.ref =
 
 # kotlin-result
 kotlinResult = { module = "com.michael-bull.kotlin-result:kotlin-result", version.ref = "kotlinResult" }
+kotlinResult-coroutines = { module = "com.michael-bull.kotlin-result:kotlin-result-coroutines", version.ref = "kotlinResult" }
 
 # AppDirs
 appdirs = { module = "net.harawata:appdirs", version.ref = "appdirs" }
