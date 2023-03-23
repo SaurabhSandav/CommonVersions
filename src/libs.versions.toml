@@ -47,6 +47,7 @@ bignum = "0.3.8"
 kotlinCsv = "1.8.0"
 kotlinResult = "1.1.16"
 appdirs = "1.2.1"
+buildKonfig = "0.13.3"
 
 # Mine
 mineCommon = "0.2.2"
@@ -83,6 +84,9 @@ molecule = { id = "app.cash.molecule", version.ref = "molecule" }
 
 # Kotlin Symbol Processing
 ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+
+# BuildKonfig
+buildKonfig = { id = "com.codingfeline.buildkonfig", version.ref = "buildKonfig" }
 
 [libraries]
 
