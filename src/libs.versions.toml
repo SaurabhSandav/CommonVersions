@@ -45,6 +45,7 @@ kotlinInject = "0.6.1"
 uuid = "0.7.0"
 bignum = "0.3.8"
 kotlinCsv = "1.8.0"
+kotlinResult = "1.1.16"
 
 # Mine
 mineCommon = "0.2.2"
@@ -191,6 +192,9 @@ bignum = { module = "com.ionspin.kotlin:bignum", version.ref = "bignum" }
 
 # kotlin-csv
 kotlinCsvJvm = { module = "com.github.doyaaaaaken:kotlin-csv-jvm", version.ref = "kotlinCsv" }
+
+# kotlin-result
+kotlinResult = { module = "com.michael-bull.kotlin-result:kotlin-result", version.ref = "kotlinResult" }
 
 # Common
 mine-common-core = { module = "com.saurabhsandav.common:compose", version.ref = "mineCommon" }
