@@ -26,7 +26,7 @@ jetpackComposeCompiler = "1.4.4"
 jetpackTv = "1.0.0-alpha05"
 
 # Google
-accompanist = "0.28.0"
+accompanist = "0.30.0"
 ksp = "1.8.10-1.0.9"
 playServicesMlKitBarcodeScanning = "18.1.0"
 
