@@ -15,7 +15,7 @@ jetbrainsCompose = "1.4.0"
 ktor = "2.2.4"
 
 # Android and Jetpack
-android = "7.4.2"
+android = "8.0.0"
 jetpackActivity = "1.7.0"
 jetpackLifecycle = "2.6.1"
 jetpackDatastore = "1.0.0"
