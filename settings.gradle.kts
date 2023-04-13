@@ -8,6 +8,16 @@
  * This project uses @Incubating APIs which are subject to change.
  */
 
+pluginManagement {
+
+    repositories {
+        google()
+        gradlePluginPortal()
+        mavenCentral()
+        maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
+    }
+}
+
 rootProject.name = "CommonVersions"
 
 dependencyResolutionManagement {
