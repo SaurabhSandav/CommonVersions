@@ -23,7 +23,7 @@ jetpackMedia3 = "1.0.1"
 jetpackCamerax = "1.2.2"
 jetpackCompose = "1.4.2"
 jetpackComposeCompiler = "1.4.6"
-jetpackTv = "1.0.0-alpha05"
+jetpackTv = "1.0.0-alpha06"
 
 # Google
 accompanist = "0.30.1"
