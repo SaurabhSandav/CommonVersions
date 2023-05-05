@@ -21,7 +21,7 @@ jetpackLifecycle = "2.6.1"
 jetpackDatastore = "1.0.0"
 jetpackMedia3 = "1.0.1"
 jetpackCamerax = "1.2.2"
-jetpackCompose = "1.4.2"
+jetpackCompose = "1.4.3"
 jetpackComposeCompiler = "1.4.7"
 jetpackTv = "1.0.0-alpha06"
 
