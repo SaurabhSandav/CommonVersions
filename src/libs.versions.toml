@@ -10,7 +10,7 @@ kotlinxSerialization = "1.5.1"
 kotlinxDatetime = "0.4.0"
 kotlinxBinaryCompatibilityValidator = "0.13.2"
 kotlinxCollectionsImmutable = "0.3.5"
-dokka = "1.8.10"
+dokka = "1.8.20"
 jetbrainsCompose = "1.4.0"
 ktor = "2.3.1"
 
