@@ -165,6 +165,9 @@ sqldelight-androidDriver = { module = "com.squareup.sqldelight:android-driver", 
 sqldelight-sqliteDriver = { module = "com.squareup.sqldelight:sqlite-driver", version.ref = "sqldelight" }
 sqldelight-coroutinesExtensions = { module = "com.squareup.sqldelight:coroutines-extensions", version.ref = "sqldelight" }
 
+# Molecule
+molecule-runtime = { module = "app.cash.molecule:molecule-runtime", version.ref = "molecule" }
+
 # OkHttp
 okhttp = { module = "com.squareup.okhttp3:okhttp", version.ref = "okhttp" }
 
