@@ -165,6 +165,7 @@ sqldelight-androidDriver = { module = "app.cash.sqldelight:android-driver", vers
 sqldelight-sqliteDriver = { module = "app.cash.sqldelight:sqlite-driver", version.ref = "sqldelight" }
 sqldelight-primitiveAdapters = { module = "app.cash.sqldelight:primitive-adapters", version.ref = "sqldelight" }
 sqldelight-coroutinesExtensions = { module = "app.cash.sqldelight:coroutines-extensions", version.ref = "sqldelight" }
+sqldelight-dialect-sqlite338 = { module = "app.cash.sqldelight:sqlite-3-38-dialect", version.ref = "sqldelight" }
 
 # Molecule
 molecule-runtime = { module = "app.cash.molecule:molecule-runtime", version.ref = "molecule" }
