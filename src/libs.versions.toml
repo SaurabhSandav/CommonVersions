@@ -46,7 +46,7 @@ uuid = "0.8.1"
 bignum = "0.3.8"
 kotlinCsv = "1.9.2"
 kotlinResult = "1.1.18"
-appdirs = "1.2.1"
+appdirs = "1.2.2"
 buildKonfig = "0.14.0"
 
 # Mine
