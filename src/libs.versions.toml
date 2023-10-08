@@ -1,7 +1,7 @@
 [versions]
 
 # Gradle
-gradleVersionsChecker = "0.48.0"
+gradleVersionsChecker = "0.49.0"
 
 # Jetbrains
 kotlin = "1.9.10"
