@@ -36,7 +36,7 @@ okhttp = "4.11.0"
 molecule = "1.2.1"
 
 # Other
-multiplatformSettings = "1.0.0"
+multiplatformSettings = "1.1.0"
 kermit = "2.0.1"
 bundlizer = "0.7.0"
 coil = "2.4.0"
