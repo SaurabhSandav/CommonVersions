@@ -6,7 +6,7 @@ gradleVersionsChecker = "0.49.0"
 # Jetbrains
 kotlin = "1.9.20"
 kotlinxCoroutines = "1.7.3"
-kotlinxSerialization = "1.6.0"
+kotlinxSerialization = "1.6.1"
 kotlinxDatetime = "0.4.1"
 kotlinxBinaryCompatibilityValidator = "0.13.2"
 kotlinxCollectionsImmutable = "0.3.6"
