@@ -48,6 +48,7 @@ kotlinCsv = "1.9.2"
 kotlinResult = "1.1.18"
 appdirs = "1.2.2"
 buildKonfig = "0.15.0"
+jcefMaven = "116.0.19.1"
 
 # Mine
 mineCommon = "0.2.2"
@@ -209,6 +210,9 @@ kotlinResult-coroutines = { module = "com.michael-bull.kotlin-result:kotlin-resu
 
 # AppDirs
 appdirs = { module = "net.harawata:appdirs", version.ref = "appdirs" }
+
+# JCEF MAVEN
+jcefMaven = { module = "me.friwi:jcefmaven", version.ref = "jcefMaven" }
 
 # Common
 mine-common-core = { module = "com.saurabhsandav.common:compose", version.ref = "mineCommon" }
