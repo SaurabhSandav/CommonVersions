@@ -47,7 +47,7 @@ bignum = "0.3.8"
 kotlinCsv = "1.9.2"
 kotlinResult = "1.1.18"
 appdirs = "1.2.2"
-buildKonfig = "0.15.0"
+buildKonfig = "0.15.1"
 jcefMaven = "116.0.19.1"
 
 # Mine
