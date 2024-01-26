@@ -43,7 +43,7 @@ jobs:
           prerelease: false
 
       - name: Publish package
-        uses: gradle/gradle-build-action@v2
+        uses: gradle/gradle-build-action@v3
         with:
           arguments: -Pversion=${{ steps.bump_version.outputs.next-version }} publish
         env:
