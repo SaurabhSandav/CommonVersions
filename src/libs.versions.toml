@@ -12,7 +12,7 @@ kotlinxBinaryCompatibilityValidator = "0.14.0"
 kotlinxCollectionsImmutable = "0.3.7"
 dokka = "1.9.10"
 jetbrainsCompose = "1.5.12"
-ktor = "2.3.7"
+ktor = "2.3.8"
 
 # Android and Jetpack
 android = "8.2.2"
