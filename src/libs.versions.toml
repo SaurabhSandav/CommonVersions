@@ -48,7 +48,7 @@ kotlinCsv = "1.9.3"
 kotlinResult = "1.1.20"
 appdirs = "1.2.2"
 buildKonfig = "0.15.1"
-jcefMaven = "116.0.19.1"
+jcefMaven = "122.1.10"
 
 # Mine
 mineCommon = "0.2.2"
