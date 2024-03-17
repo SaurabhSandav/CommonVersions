@@ -35,12 +35,10 @@ jobs:
           version-fragment: 'feature'
 
       - name: Create Release
-        uses: marvinpinto/action-automatic-releases@latest
+        uses: softprops/action-gh-release@v2
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: ${{ steps.bump_version.outputs.next-version }}
-          title: ${{ steps.bump_version.outputs.next-version }}
-          prerelease: false
+          tag_name: ${{ steps.bump_version.outputs.next-version }}
+          generate_release_notes: true
 
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v3
