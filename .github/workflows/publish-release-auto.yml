@@ -42,9 +42,10 @@ jobs:
           title: ${{ steps.bump_version.outputs.next-version }}
           prerelease: false
 
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v3
+
       - name: Publish package
-        uses: gradle/gradle-build-action@v3
-        with:
-          arguments: -Pversion=${{ steps.bump_version.outputs.next-version }} publish
+        run: ./gradlew -Pversion=${{ steps.bump_version.outputs.next-version }} publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
