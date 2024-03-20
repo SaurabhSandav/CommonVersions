@@ -22,7 +22,7 @@ jetpackDatastore = "1.0.0"
 jetpackMedia3 = "1.3.0"
 jetpackCamerax = "1.3.2"
 jetpackCompose = "1.6.3"
-jetpackComposeCompiler = "1.5.10"
+jetpackComposeCompiler = "1.5.11"
 jetpackTv = "1.0.0-alpha10"
 
 # Google
