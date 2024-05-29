@@ -49,6 +49,7 @@ kotlinResult = "2.0.0"
 appdirs = "1.2.2"
 buildKonfig = "0.15.1"
 jcefMaven = "122.1.10"
+mpfilepicker = "3.1.0"
 
 # Mine
 mineCommon = "0.2.2"
@@ -213,6 +214,9 @@ appdirs = { module = "net.harawata:appdirs", version.ref = "appdirs" }
 
 # JCEF MAVEN
 jcefMaven = { module = "me.friwi:jcefmaven", version.ref = "jcefMaven" }
+
+# Compose Multiplatform File Picker
+mpfilepicker = { module = "com.darkrockstudios:mpfilepicker", version.ref = "mpfilepicker" }
 
 # Common
 mine-common-core = { module = "com.saurabhsandav.common:compose", version.ref = "mineCommon" }
