@@ -19,6 +19,7 @@ android = "8.4.1"
 jetpackActivity = "1.9.0"
 jetpackLifecycle = "2.8.0"
 jetpackDatastore = "1.1.1"
+jetpackPaging = "3.3.0"
 jetpackMedia3 = "1.3.1"
 jetpackCamerax = "1.3.3"
 jetpackCompose = "1.6.7"
@@ -130,6 +131,9 @@ jetpack-lifecycle-viewmodel-compose = { module = "androidx.lifecycle:lifecycle-v
 
 # Jetpack DatatStore
 jetpack-datastore-preferences = { module = "androidx.datastore:datastore-preferences", version.ref = "jetpackDatastore" }
+
+# Jetpack Paging
+jetpack-paging-common = { module = "androidx.paging:paging-common", version.ref = "jetpackPaging" }
 
 # Jetpack Media3
 jetpack-media3-ui = { module = "androidx.media3:media3-ui", version.ref = "jetpackMedia3" }
