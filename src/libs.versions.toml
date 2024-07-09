@@ -17,7 +17,7 @@ ktor = "2.3.12"
 # Android and Jetpack
 android = "8.5.0"
 jetpackActivity = "1.9.0"
-jetpackLifecycle = "2.8.2"
+jetpackLifecycle = "2.8.3"
 jetpackDatastore = "1.1.1"
 jetpackPaging = "3.3.0"
 jetpackMedia3 = "1.3.1"
