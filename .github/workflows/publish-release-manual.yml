@@ -30,7 +30,7 @@ jobs:
           generate_release_notes: true
 
       - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v3
+        uses: gradle/actions/setup-gradle@v4
 
       - name: Publish package
         run: ./gradlew -Pversion=${{ github.event.inputs.version }} publish
