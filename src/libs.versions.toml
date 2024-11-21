@@ -37,7 +37,7 @@ molecule = "2.0.0"
 
 # Other
 multiplatformSettings = "1.2.0"
-kermit = "2.0.4"
+kermit = "2.0.5"
 bundlizer = "0.8.0"
 coil = "2.7.0"
 whatTheStack = "1.0.0-alpha04"
