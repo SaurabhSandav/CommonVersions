@@ -14,7 +14,6 @@ pluginManagement {
         google()
         gradlePluginPortal()
         mavenCentral()
-        maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
     }
 }
 
@@ -22,10 +21,10 @@ rootProject.name = "CommonVersions"
 
 dependencyResolutionManagement {
 
+    @Suppress("UnstableApiUsage")
     repositories {
         mavenCentral()
         google()
-        maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
         maven("https://jitpack.io")
     }
 }
